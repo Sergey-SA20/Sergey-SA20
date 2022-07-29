@@ -3,7 +3,7 @@
 тестированием ПО</h3>
 <img align="right" alt='qa' width='400' src='https://cdn.dribbble.com/users/926537/screenshots/4502970/media/6acac6ca05608d20b9132eef49f22e60.gif'></img>
 
-Мой [сайт-портфолио](https://sergey-sa20.github.io/)
+Мой [сайт-портфолио](https://sergey-sa20.github.io/) <br>
 Моё резюме в [pdf-формате](https://drive.google.com/file/d/1ibHWCiGpALsFDjBXIy0qVXJECwm0fFfd/view?usp=sharing)
 
 <h3 align="left">Контакты:</h3>
