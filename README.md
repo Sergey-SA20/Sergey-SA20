@@ -1,6 +1,5 @@
-<h1 align="center">Привет 👋, меня зовут Сергей</h1>
-<h3 align="center">Я начинающий специалист, увлеченный
-тестированием ПО</h3>
+<h1 align="center">Hi there👋</h1>
+<h3 align="center">Welcome to my github</h3>
 <img align="right" alt='qa' width='400' src='https://cdn.dribbble.com/users/926537/screenshots/4502970/media/6acac6ca05608d20b9132eef49f22e60.gif'></img>
 
 Мой [сайт-портфолио](https://sergey-sa20.github.io/) <br>
